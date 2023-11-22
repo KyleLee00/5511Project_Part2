@@ -1,6 +1,4 @@
-#-*-coding:utf-8-*-
-# date:2019-05-20
-# function: wing loss  & adaptive wing loss
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
